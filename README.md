@@ -1,5 +1,5 @@
-# Elevate-labs-Cybersecurity-Task-01
-Task 1 – Local Network Port Scanning
+# Local Network Port Scanning
+
 
 
 # Task 1 – Local Network Port Scanning
